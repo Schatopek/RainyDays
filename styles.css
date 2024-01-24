@@ -1,0 +1,203 @@
+.upperline {
+    width: 1890px;
+    height: 40px;
+    background-color: #557562;
+}
+
+.upperline > ul > li {
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    position: relative;
+    color: white;
+    font-size: 16px;
+}
+
+a > img {
+    max-width: 150px;
+    display: flex;
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+nav > li > a {
+    position: relative;
+    width: 120px;
+    left: 550px;
+    bottom: 70px;
+    gap: 250px;
+}
+
+.navmenu, nav, li, a {
+    display: flex;
+    text-decoration: none;
+    color: #315168;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    gap: 110px;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+} 
+
+.search-bar{
+    display: flex;
+    position: relative;
+}
+
+button {
+    background-image: url(../Images/Search.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    position: relative;
+}
+
+.spaceline {
+    height: 40px;
+    width: 1890px;
+    background-color: #557562;
+    position: relative;
+    top: 40px;
+}
+
+nav > ul, p > a {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    position: relative;
+    left: 100px;
+    gap: 580px;
+    top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;  
+}
+
+
+.image1 {
+    width: 600px;
+    height: 750px;
+    display: flex;
+    background-image: url(../Images/man\ under\ the\ rain3.png);
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 5px;
+    top: 50px;
+}
+.image2 {
+    width: 600px;
+    height: 750px;
+    background-image: url(../Images/Girl\ under\ the\ rain2.png);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 55px;
+    top: 50px;
+}
+
+.image3 {
+    width: 550px;
+    height: 750px;
+    background-image: url(../Images/Equipment.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 130px;
+    top: 50px;
+}
+
+.image-container {
+    height: 900px;
+    display: flex;
+    }
+
+
+h1 {
+    color: #315168;
+    width: 500px;
+    height: 50px;
+    display: flex;
+    position: relative;
+    left: 830px;
+}
+
+
+.image4 {
+    width: 350px;
+    height: 500px;
+    background-image: url(../Images/Jacket\ Second\ skin.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image5 {
+    width: 350px;
+    height: 400px;
+    background-image: url(../Images/Jacket2\ \ \ Ibex.jpg.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    right: 500px;
+    top: 55px;
+}
+
+.image6 {
+    background-image: url(../Images/Jacket7\ Alpaca.jpg);
+
+}
+
+.image7 {
+    background-image: url(../Images/Jacket5\ \ \ Falcon\ X.jpg);
+}
+
+
+nav > a {
+    width: 120px;
+    height: 50px;
+    display: flex;
+    position: relative;
+    font-size: 16px;
+    top: 400px;
+    left: 180px;
+}
+
+.productsname, nav {
+    gap: 300px;
+}
+
+.banner2 {
+    width: 1890px;
+    height: 980px;
+    display: flex;
+    position: relative;
+    top: 400px;
+    background-image: url(../Images/Pushing\ the\ confort\ zone.jpg);
+}
+
+h2 {
+    color: white;
+    font-size: 70px;
+    display: flex;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
+
+.aboutus {
+    width: 1890px;
+    height: 500px;
+    background-color: #5785BB;
+}
+
